@@ -29,9 +29,9 @@ url_biz_list =[ #ten vienemese restaurants in san jose
     'vit-dong-que-san-jose'
     ]
 
-url_biz_list =[ #ten vienemese restaurants in san jose
-    'com-tam-dat-thanh-san-jose',
-    'com-tam-thien-huong-san-jose']
+#url_biz_list =[ #ten vienemese restaurants in san jose
+#    'com-tam-dat-thanh-san-jose',
+#    'com-tam-thien-huong-san-jose']
 
 
 ### LOOP OVER EACH BUSINESS
